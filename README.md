@@ -39,4 +39,8 @@ python baseline.py
 python train.py
 ```
 
-## Examples
+## Some Segmentation Examples
+
+![](images/segmentation1.png)
+
+![](images/segmentation2.png)
