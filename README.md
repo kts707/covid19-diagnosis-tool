@@ -41,6 +41,12 @@ python train.py
 
 ## Some Segmentation Examples
 
+Left: Model Prediction
+
+Middle: Ground Truth
+
+Right: Original CT Scan
+
 ![](images/segmentation1.png)
 
 ![](images/segmentation2.png)
